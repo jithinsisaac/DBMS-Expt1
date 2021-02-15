@@ -52,5 +52,5 @@ To install MariaDB/MySQL, Import dummy databases, Learn basic introductory data 
 
 ### Submission Details
 - **Submitted on** 15-02-2021
-- **Submitted by** Mr/Ms. XYZ
-- **Roll No.** 111
+- **Submitted by** Mr/Ms. PQR
+- **Roll No.** 999
