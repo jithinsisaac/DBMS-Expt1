@@ -45,12 +45,13 @@ To install MariaDB/MySQL, Import dummy databases, Learn basic introductory data 
   3. Usage of HeidiSQL for accessing & reading the database   
 
 ### Procedure 
-- **Add the procedure that you used to complete the experiment**
+- install xampp
+- install mariadb...
 
 ### Output
-- **Add screenshots of your output along with a link to your video**  
+-  attaching screenshot of xampp
 
 ### Submission Details
-- **Submitted on** 15-02-2021
-- **Submitted by** Mr/Ms. PQR
-- **Roll No.** 999
+- **Submitted on** 18-02-2021
+- **Submitted by** Mr/Ms. ijs
+- **Roll No.** 123
